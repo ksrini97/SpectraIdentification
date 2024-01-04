@@ -37,3 +37,4 @@ Biomass_Naoh_FTIR.xlsx - Raw FTIR data of HTL of biomass in basic conditions <br
 Biomass_Naoh_HNMR.xlsx - Raw FHNMR data of HTL of biomass in basic conditions <br />
 Biomass_SCW_FTIR.xlsx - Raw FTIR data of HTL of biomass in super critical water <br />
 Biomass_SCW_FTIR.xlsx - Raw HNMR data of HTL of biomass in super critical water <br />
+SynData - Contains data for synthetic experiments<br />
